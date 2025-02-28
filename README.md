@@ -22,7 +22,7 @@ go get github.com/poagz/go-persian-text
 To ReShape :
 ```
 import (
-	"github.com/poagz/go-persian-text/persian"
+	"github.com/poagz/go-persian-text"
 	"golang.org/x/image/font"
 	"golang.org/x/image/font/opentype"
 	"golang.org/x/image/math/fixed"
